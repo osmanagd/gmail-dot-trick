@@ -13,7 +13,7 @@ const defaultSEO = {
     site: '@yoursitetwitter',
     cardType: 'summary_large_image',
   },
-  keywords: ['Gmail dot trick generator',مولد اميلاات فرعية', 'Google mail Trick','mail dot Trick', 'gmail generator'], // Add your keywords here
+  keywords: ['Gmail dot trick generator',مولد اميلاات فرعية', 'Google mail Trick','Gmail dot trick generator',مولد اميلاات فرعية','unlimited gmail','fake email','fake email generator','gmail generator','Fake gmail generator','email generator', 'Google mail Trick','mail dot Trick', 'gmail generator', 'Fake gmail generator', 'Fake gmail',' Googlemail Trick','Create many new Gmail email addresses for free','google trick','mail dot Trick', 'gmail generator'], // Add your keywords here
 };
 
 export default defaultSEO;
